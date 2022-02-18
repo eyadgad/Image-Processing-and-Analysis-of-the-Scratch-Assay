@@ -3,9 +3,9 @@ Scratch assay or Wound healing assay is one of the common assays in biology. It 
 
 <div align="center">
 <p>
-<img src="results/input_animation.gif" width="300"/>
-<img src="results/entropy_animation.gif" width="300"/> 
-<img src="results/binary_animation.gif" width="300"/> 
+<img src="results/input_animation.gif" width="250"/>
+<img src="results/entropy_animation.gif" width="250"/> 
+<img src="results/binary_animation.gif" width="250"/> 
 </p>
 </div>
 <div align="center">
