@@ -1,5 +1,5 @@
 # Image Processing and Analysis of the Scratch Assay
-Scratch assay or Wound healing assay is one of the common assays in biology. It involves segmenting time series images for cell migration (cell-filled vs cell-unfilled) regions. we process by taking an image every one hour then by using image processing libraries like scikit-image and openCV, the area of the cell unfilled region is calculated and noticed that the area decreases over time due to the cell migration as shown in the animated videos. the code explains the segmentation process using Entropy filter and Otsu thresholding in Python. 
+Scratch assay or Wound healing assay is one of the common assays in biology. It involves segmenting time series images for cell migration (cell-filled & cell-unfilled) regions. we process by taking an image every one hour then by using image processing libraries like scikit-image and openCV, the area of the cell unfilled region is calculated and noticed that the area decreases over time due to the cell migration as shown in the animated videos. the code explains the segmentation process using Entropy filter and Otsu thresholding in Python. 
 
 <div align="center">
 <p>
