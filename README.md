@@ -40,5 +40,6 @@ all_parameters=True  #makes all parameters of the function true
 ```
 
 ## References
-[An introduction to the wound healing assay using live-cell microscopy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154238/pdf/kcam-08-05-969641.pdf)
-[Scratch assay analysis with just 5 lines code in Python](https://www.youtube.com/watch?v=jcUx-TQpcM8)
+- [An introduction to the wound healing assay using live-cell microscopy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154238/pdf/kcam-08-05-969641.pdf)
+
+- [Scratch assay analysis with just 5 lines code in Python](https://www.youtube.com/watch?v=jcUx-TQpcM8)
